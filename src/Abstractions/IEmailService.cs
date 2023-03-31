@@ -1,7 +1,7 @@
 ﻿
 using ServiceSendEmail.Models;
 
-namespace ServiceSendEmail.Abstracts
+namespace ServiceSendEmail.Abstractions
 {
 	public interface IEmailService
 	{

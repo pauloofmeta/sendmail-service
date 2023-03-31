@@ -1,7 +1,7 @@
 using Amazon.Lambda.Core;
 using Amazon.Lambda.SQSEvents;
 using Microsoft.Extensions.DependencyInjection;
-using ServiceSendEmail.Abstracts;
+using ServiceSendEmail.Abstractions;
 using ServiceSendEmail.Extensions;
 using ServiceSendEmail.Models;
 using System.Text.Json;

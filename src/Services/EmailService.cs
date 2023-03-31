@@ -1,4 +1,4 @@
-﻿using ServiceSendEmail.Abstracts;
+﻿using ServiceSendEmail.Abstractions;
 using ServiceSendEmail.Models;
 using System.Net;
 using System.Net.Mail;
